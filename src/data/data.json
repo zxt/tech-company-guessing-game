@@ -1,0 +1,149 @@
+{
+  "companies": [
+    {
+      "name": "Atlassian",
+      "hint": "Our mission is to unleash the potential in every team. Our products help teams organize, discuss and complete their work—delivering superior outcomes for their organizations.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1650372/000104746915009143/a2226831z424b4.htm#ca77101_prospectus_summary"
+    },
+    {
+      "name": "Blue Apron",
+      "hint": "Blue Apron's mission is to make incredible home cooking accessible to everyone.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm#ca16601_prospectus_summary"
+    },
+    {
+      "name": "Cloudflare",
+      "hint": "Cloudflare’s mission is to help build a better Internet.\nToday, the Internet is the lifeblood of business and the primary vehicle of commerce and communication for people around the world. While it was brilliantly architected to deliver fault tolerance and robust connectivity, it was not designed to deliver the security, millisecond performance, and reliability required for businesses today.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1477333/000119312519222176/d735023ds1.htm#toc735023_1"
+    },
+    {
+      "name": "Crowdstrike",
+      "hint": "We don't have a mission statement—we are on a mission to protect our customers from breaches.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1535527/000104746919003095/a2238800zs-1.htm#ca10701_prospectus_summary"
+    },
+    {
+      "name": "Datadog",
+      "hint": "Datadog is the monitoring and analytics platform for developers, IT operations teams and business users in the cloud age.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1561550/000119312519227783/d745413ds1.htm#toc745413_1"
+    },
+    {
+      "name": "Dropbox",
+      "hint": "Our modern economy runs on knowledge. Today, knowledge lives in the cloud as digital content, and Dropbox is a global collaboration platform where more and more of this content is created, accessed, and shared with the world.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1467623/000119312518055809/d451946ds1.htm#toc451946_1"
+    },
+    {
+      "name": "Elastic",
+      "hint": "Elastic is a search company.\nSearch is foundational to a wide variety of experiences. Elastic makes the power of search—the ability to instantly find relevant information and insights from large amounts of data—available for a diverse set of applications and use cases.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1707753/000119312518266861/d588632ds1.htm#toc588632_1"
+    },
+    {
+      "name": "Facebook",
+      "hint": "Our mission is to make the world more open and connected.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm#toc287954_1"
+    },
+    {
+      "name": "Fastly",
+      "hint": "Our mission is to fuel the next modern digital experience by providing developers with a programmable and reliable edge cloud platform that they adopt as their own.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1517413/000119312519111675/d702138ds1.htm#toc702138_1"
+    },
+    {
+      "name": "GoPro",
+      "hint": "GoPro is transforming the way consumers capture, manage, share and enjoy meaningful life experiences. We do this by enabling people to capture compelling, immersive photo and video content of themselves participating in their favorite activities.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1500435/000119312514404584/d809891ds1.htm#toc809891_1"
+    },
+    {
+      "name": "Groupon",
+      "hint": "Groupon is a local e-commerce marketplace that connects merchants to consumers by offering goods and services at a discount.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1490281/000104746911005613/a2203913zs-1.htm#ca79801_prospectus_summary"
+    },
+    {
+      "name": "LinkedIn",
+      "hint": "Our mission is to connect the world’s professionals to make them more productive and successful.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1271024/000119312511295272/d250692ds1.htm#toc250692_1"
+    },
+    {
+      "name": "Lyft",
+      "hint": "Our Mission: Improve people’s lives with the world’s best transportation.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1759509/000119312519059849/d633517ds1.htm#toc633517_1"
+    },
+    {
+      "name": "Okta",
+      "hint": "Our mission is to enable any organization to use any technology, and we believe identity is the key to making that happen.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1660134/000119312517080301/d289173ds1.htm#toc289173_1"
+    },
+    {
+      "name": "PagerDuty",
+      "hint": "Our mission is to connect teams to real-time opportunity and elevate work to the outcomes that matter.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1568100/000162828019003003/pagerdutys-1.htm#sE5D353267C6FB9F41701AD966004893E"
+    },
+    {
+      "name": "Pinterest",
+      "hint": "Pinterest is where more than 250 million people around the world go to get inspiration for their lives. They come to discover ideas for just about anything you can imagine: daily activities like cooking dinner or deciding what to wear, major commitments like remodeling a house or training for a marathon, ongoing passions like fly fishing or fashion and milestone events like planning a wedding or a dream vacation.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1506293/000119312519083544/d674330ds1.htm#rom674330_2"
+    },
+    {
+      "name": "Roku",
+      "hint": "Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers with the content they love. We help content publishers find their audience and make money. We are pushing TV advertising out of the 1940s—when Bulova watches launched the first TV ad—and into the data-driven, machine learning, era of relevant and interactive TV ads. We partner with TV brands and service operators so they can thrive in this rapidly changing ad world.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1428439/000119312517275689/d403225ds1.htm#toc403225_1"
+    },
+    {
+      "name": "Salesforce",
+      "hint": "Salesforce.com is the leading provider of application services that allow organizations to easily share customer information on demand. We provide a comprehensive customer relationship management, or CRM, service to businesses of all sizes and industries worldwide.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1108524/000119312503096073/ds1.htm#toc25058_1"
+    },
+    {
+      "name": "Slack",
+      "hint": "Slack is where work happens.\nAround the world, over 600,000 organizations in over 150 countries have turned to Slack as the place to communicate, collaborate, and get work done.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1764925/000162828019004786/slacks-1.htm#sA031AD7407DEE4C9AD8C567D8A577EE8"
+    },
+    {
+      "name": "Shopify",
+      "hint": "Our mission is to make commerce better for everyone and we believe we can help merchants of nearly all sizes and retail verticals realize their potential.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1594805/000119312515195802/d925168d424b4.htm#rom863202_4"
+    },
+    {
+      "name": "Snap",
+      "hint": "Snap Inc. is a camera company.\nWe believe that reinventing the camera represents our greatest opportunity to improve the way that people live and communicate. Our products empower people to express themselves, live in the moment, learn about the world, and have fun together.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1564408/000119312517029199/d270216ds1.htm#rom270216_1"
+    },
+    {
+      "name": "Spotify",
+      "hint": "Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1639920/000119312518105231/d494294d424b4.htm#rom494294_5"
+    },
+    {
+      "name": "Square",
+      "hint": "The story of Square is best told through the stories of our sellers, the customers we serve.\nAs soon as we had a working prototype of our first credit card reader, we went out to talk to sellers.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm#toc937622_1"
+    },
+    {
+      "name": "Twilio",
+      "hint": "We believe the future of communications will be written in software, by the developers of the world—our customers. By empowering them, our mission is to fuel the future of communications.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1447669/000119312516733893/d237988ds1.htm#toc237988_1"
+    },
+    {
+      "name": "Twitter",
+      "hint": "Twitter is a global platform for public self-expression and conversation in real time. By developing a fundamentally new way for people to create, distribute and discover content, we have democratized content creation and distribution, enabling any voice to echo around the world instantly and unfiltered.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1418091/000119312513390321/d564001ds1.htm#toc564001_1"
+    },
+    {
+      "name": "Uber",
+      "hint": "Our mission is to ignite opportunity by setting the world in motion.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1543151/000119312519103850/d647752ds1.htm#toc647752_1"
+    },
+    {
+      "name": "WeWork",
+      "hint": "We are a community company committed to maximum global impact. Our mission is to elevate the world’s consciousness.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1533523/000119312519220499/d781982ds1.htm#toc781982_1"
+    },
+    {
+      "name": "Zoom",
+      "hint": "Our mission is to make video communications frictionless. We provide a video-first communications platform that delivers happiness and fundamentally changes how people interact.",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1585521/000119312519083351/d642624ds1.htm#toc642624_2"
+    },
+    {
+      "name": "Zynga",
+      "hint": "We founded Zynga in 2007 with the vision that play—like search, share and shop—would become one of the core activities on the Internet. As a pioneer of online social games, we have made them accessible, social and fun. We are excited that games have grown to become the second most popular online activity in the United States by time spent, even surpassing email. We have a lot of hard work, innovation and growth ahead of us to create a future where social games are a daily habit for nearly everyone.\nOur mission is to connect the world through games",
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1439404/000119312512113668/d312579ds1.htm#toc312579_1"
+    }
+  ]
+}
