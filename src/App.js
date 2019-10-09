@@ -80,7 +80,9 @@ function App() {
   return (
     <div className="App">
       <Question content={co[q_id].hint} />
-      {answerOptions}
+      <div className="answerWrapper">
+        {answerOptions}
+      </div>
       <div>
         {correctCount} / {totalCount}
       </div>
