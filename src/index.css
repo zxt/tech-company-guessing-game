@@ -18,6 +18,11 @@ code {
     justify-items: center;
 }
 
+.question {
+    width: 100%;
+    max-width: 1200px;
+}
+
 .answerWrapper {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -37,10 +42,11 @@ code {
 	font-family:Arial;
 	font-size:15px;
 	font-weight:bold;
-        margin-bottom: 8px;
+        margin: 8px;
 	padding:12px 40px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffffff;
+        width: 90%;
 }
 .answerOption:hover {
 	background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
